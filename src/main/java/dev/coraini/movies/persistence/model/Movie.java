@@ -1,4 +1,4 @@
-package dev.coraini.movies;
+package dev.coraini.movies.persistence.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
